@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+p{color:black;
+font-family:Arial, Helvetica, sans-serif;
+font-size:18px;
+line-height:20px;
+width:600px;
+background-color:antiquewhite;
+padding:20px;
+}
+h1{font-family:klarabensic;
+color:cadetblue;}
+h2{
+	font-family:"Times New Roman", Times, serif;
+	color:cadetblue;
+	}
+span{color:violet;}
+body{background-image:url(slike/pozadina.png);}
+a:link {color:black;
+background-color:white;
+padding:5px;
+line-height:20px;
+border:1px solid#000000;}
+a:hover{background-color:darkgray;
+}
+img{height:300px;}
+
+
+
+
